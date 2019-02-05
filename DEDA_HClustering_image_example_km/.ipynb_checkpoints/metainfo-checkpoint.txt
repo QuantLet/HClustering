@@ -1,15 +1,11 @@
 Name of QuantLet : DEDA_HClustering_image_example_km
 
-Published in : ''
+Published in : DEDA class
 
 Description : 'Motivation example on image segmentation with k-means clustering'
 
 Keywords : Computer vision, image segmentation, k-means, cluster analysis
 
-See also : ''
-
 Author : Elizaveta Zinovyeva
 
-Submitted : 
-
-Example : 
+Submitted : Fri, January 13 2019 by Elizaveta Zinovyeva

@@ -1,0 +1,11 @@
+Name of QuantLet : DEDA_HClustering_quantlet
+
+Published in : DEDA class
+
+Description : 'Hierarchical clustering on qunatlets'
+
+Keywords : Quantlets, hierarchical, k-means, cluster analysis
+
+Author : Elizaveta Zinovyeva
+
+Submitted : Fri, January 13 2019 by Elizaveta Zinovyeva
