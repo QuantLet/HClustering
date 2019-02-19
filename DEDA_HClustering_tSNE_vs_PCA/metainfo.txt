@@ -1,0 +1,11 @@
+Name of QuantLet : DEDA_HClustering_tSNE_vs_PCA
+
+Published in : DEDA class
+
+Description : 'Explanatory example for dimensionality reduction t-SNE vs PCA accompanying the hierarchical clustering project'
+
+Keywords : Dimensionality reduction, t-SNE, PCA, cluster analysis
+
+Author : Elizaveta Zinovyeva
+
+Submitted : Fri, February 19 2019 by Elizaveta Zinovyeva
